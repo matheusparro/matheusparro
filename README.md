@@ -1,9 +1,12 @@
 ## Olá me chamo Matheus Parro, sou desenvolvedor de soluções!
-<div align="center">
-  <a href="https://github.com/matheusparro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusparro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusparro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusparro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusparro&layout=compact&langs_count=7&theme=dracula"/></td>
+  </tr>
+</table>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
