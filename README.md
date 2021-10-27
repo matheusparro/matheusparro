@@ -1,6 +1,6 @@
 ## Olá me chamo Matheus Parro, sou desenvolvedor de soluções!
 <div align="center">
-  <a display:"flex" href="https://github.com/matheusparro">
+  <a style="display: flex;" href="https://github.com/matheusparro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusparro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusparro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
