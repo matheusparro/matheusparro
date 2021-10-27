@@ -1,4 +1,4 @@
-## Olá me chamo Matheus Parro, sou desenvolvedor de soluções!
+## Olá me chamo Matheus Parro, sou desenvolvedor de software!
   <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
