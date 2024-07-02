@@ -1,8 +1,6 @@
 ## Olá me chamo Matheus Parro, sou desenvolvedor de software!
   <table cellpadding="0">
   <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusparro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusparro&layout=compact&langs_count=7&theme=dracula"/></td>
   </tr>
